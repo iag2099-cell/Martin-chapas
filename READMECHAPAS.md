@@ -6,12 +6,6 @@ También incluye una versión interactiva para probar las expresiones.
 
 ---
 
-## Pantallazo del programa
-
-![Pantallazo](pantallazo.png)  <!-- Cambia "pantallazo.png" por el nombre real de tu imagen -->
-
----
-
 ## Código Python
 
 ```python
